@@ -19,6 +19,7 @@ body {
   height: 100%;
   font-family: 'Roboto', sans-serif;
   --webkit-font-smoothing: antialiased; /* Inserir no body criado no CSS, para deixar uma suavidade nas fontes no navegador*/
+  background: #000000;
 }
 
 body {
